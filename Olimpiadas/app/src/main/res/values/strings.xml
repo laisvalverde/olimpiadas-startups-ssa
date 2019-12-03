@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Olimpiadas</string>
+    <string name="time_1">Time 1:</string>
+    <string name="digite_o_nome_do_time_1">Digite o nome do time 1</string>
+    <string name="time_2">Time 2:</string>
+    <string name="digite_o_nome_do_time_2">Digite o nome do time 2</string>
+    <string name="continuar">Continuar</string>
+</resources>
